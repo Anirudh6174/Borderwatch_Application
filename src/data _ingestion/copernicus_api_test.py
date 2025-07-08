@@ -2,8 +2,7 @@
 from sentinelsat import SentinelAPI
 import os
 
-# IMPORTANT: Replace with your Copernicus Data Space Ecosystem credentials
-# For security, ideally load these from environment variables or a config file
+
 # For this initial test, we'll put them directly, but we'll refactor later.
 COPERNICUS_USERNAME = "anirudh.rich@gmail.com"
 COPERNICUS_PASSWORD = "3#B_YR@2h.ivTcL"
