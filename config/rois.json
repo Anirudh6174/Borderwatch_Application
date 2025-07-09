@@ -1,0 +1,42 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "border_region_kashmir",
+          "description": "Kashmir border monitoring area",
+          "priority": "high",
+          "monitoring_type": "border_activity"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+                [
+                  74.10676709321274,
+                  34.07689647724847
+                ],
+                [
+                  74.10676709321274,
+                  33.89026047387004
+                ],
+                [
+                  74.33537682492147,
+                  33.89026047387004
+                ],
+                [
+                  74.33537682492147,
+                  34.07689647724847
+                ],
+                [
+                  74.10676709321274,
+                  34.07689647724847
+                ]
+              ]
+            ],
+          "type": "Polygon"
+        }
+      }
+    ],
+    "bbox": null
+}
